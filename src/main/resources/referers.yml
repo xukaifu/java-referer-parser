@@ -3322,7 +3322,7 @@ search:
       - query
       - w
     domains:
-      - www.sougou.com
+      - www.sogou.com
       - www.soso.com
 
   Softonic:
